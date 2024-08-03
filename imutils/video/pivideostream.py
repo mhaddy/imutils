@@ -1,6 +1,6 @@
 # import the necessary packages
-from picamera.array import PiRGBArray
-from picamera import PiCamera
+from picamerax.array import PiRGBArray
+from picamerax import PiCamera
 from threading import Thread
 import cv2
 
